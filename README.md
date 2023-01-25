@@ -8,8 +8,8 @@ Sou Carlos Samuel, estudante de Ciência da Computação na Universiade Federal 
 &nbsp;
 
 <div align="center">
-  <img height = 180 weight = 500 src="https://github-readme-stats.vercel.app/api?username=carlosamuel8&show_icons=true&theme=algolia"></img>
-  <img height = 180 width = 500 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosamuel8&layout=compact&theme=algolia"></img>      
+  <img height = 180  src="https://github-readme-stats.vercel.app/api?username=carlosamuel8&show_icons=true&theme=algolia"></img>
+  <img height = 180 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosamuel8&layout=compact&theme=algolia"></img>      
 </div>
 
 ##  
