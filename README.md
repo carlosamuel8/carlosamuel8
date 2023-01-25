@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosamuel8&layout=compact)](https://github.com/carlosamuel8)
 <div style = "display: flex">
 <img src="https://github-readme-stats.vercel.app/api?username=carlosamuel8&show_icons=true&theme=algolia"></img>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosamuel8&layout=algolia"> </img>
 </div>
